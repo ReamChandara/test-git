@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class NewHomePage extends StatelessWidget {
-  const NewHomePage({super.key});
+class NewViewPage extends StatelessWidget {
+  const NewViewPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("New HomePage Edited"),
+        title: const Text("New View Page"),
       ),
     );
   }
