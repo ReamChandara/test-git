@@ -7,7 +7,7 @@ class NewViewPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("New View Page"),
+        title: const Text("New View Page Edting "),
       ),
     );
   }
