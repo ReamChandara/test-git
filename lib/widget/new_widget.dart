@@ -5,6 +5,6 @@ class NewWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const Text("Update In main branch");
   }
 }
